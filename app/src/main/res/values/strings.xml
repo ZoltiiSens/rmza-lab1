@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="num1_hint">num 1</string>
+    <string name="num2_hint">num 2</string>
+    <string name="radioButtonPlus">+</string>
+    <string name="radioButtonMinus">-</string>
+    <string name="radioButtonMul">*</string>
+    <string name="radioButtonDiv">/</string>
+    <string name="ButtonText">OK</string>
+</resources>
